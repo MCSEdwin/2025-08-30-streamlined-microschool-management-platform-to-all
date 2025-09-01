@@ -1,0 +1,27 @@
+{
+  "name": "2025-08-30-streamlined-microschool-management-platform-to-all",
+  "version": "1.0.0",
+  "description": "Streamlined Microschool Management Platform to Alleviate Administrative Chaos",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --live"
+  },
+  "keywords": [
+    "ai-generated",
+    "landing-page",
+    "idea2mvp",
+    "azure-openai",
+    "education-technology-(edtech)"
+  ],
+  "author": "Idea2MVP AI System",
+  "license": "MIT",
+  "homepage": "https://dailyidea.AIFirstPartner.com/daily-ideas/2025-08-30/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCSEdwin/2025-08-30-streamlined-microschool-management-platform-to-all.git"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
